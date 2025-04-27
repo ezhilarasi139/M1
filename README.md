@@ -20,6 +20,7 @@ int main() {
 ```
 
 ## OUTPUT:
+![Screenshot 2025-04-27 173040](https://github.com/user-attachments/assets/5dd6aec9-7eff-4dc5-b360-2b22d65c01c1)
 
 
 
