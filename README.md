@@ -161,9 +161,25 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+```
+#include <stdio.h>
+int main() {
+    int value;
+    scanf("%d", &value);
+    if (value == 1) {
+        printf("The input value is equal to 1.\n");
+    }
+    else {
+        printf("The input value is not equal to 1.\n");
+    }
+
+    return 0;
+}
+
+```
 
 ## OUTPUT:
-
+![image](https://github.com/user-attachments/assets/3a9fb9b1-ad49-4edc-82ac-a37ca74e63ef)
 
 
 
