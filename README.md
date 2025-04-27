@@ -68,6 +68,7 @@ int main()
 ```
 
 # OUTPUT:
+![Screenshot 2025-04-27 171535](https://github.com/user-attachments/assets/30c2f7d8-c207-4e3d-856c-46b52a149ab2)
 
 
 
