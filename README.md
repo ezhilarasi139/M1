@@ -54,6 +54,18 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+```
+#include<stdio.h>
+int main()
+{
+    float a;
+    scanf("%f",&a);
+    if(a>=0)
+       printf("Number is positive.");
+    else
+       printf("Number is negative.");
+}
+```
 
 # OUTPUT:
 
